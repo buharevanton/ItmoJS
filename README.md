@@ -7,4 +7,4 @@ func 6  https://kodaktor.ru/func_ebc49 ;
 func 7  https://kodaktor.ru/func_7a7c6 ;   
 func 8  
 func 9  https://kodaktor.ru/func_26fae ;   
-func 10  
+func 10  https://kodaktor.ru/func_19a8f  ;
